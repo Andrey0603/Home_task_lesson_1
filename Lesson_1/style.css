@@ -1,0 +1,33 @@
+a {
+    text-decoration: none;
+    }
+
+.link1 {
+    color: rgb(247, 11, 11);
+    font-size: 16px;
+    line-height: 20px;     
+}
+      
+.head1{
+    color: #073522;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;    
+}
+
+
+.parag {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #086d5c
+}
+
+.head2 {
+    color: rgb(247, 124, 79);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 80px;
+}
